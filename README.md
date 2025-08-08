@@ -2,7 +2,7 @@
 
 Select your preferences and run the install command.
 
-## NVIDIA GPUs
+## NVIDIA GPU
 
 ```bash
 # default cu128
@@ -16,7 +16,7 @@ pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/cu128 --upgrade
 pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/cu129 --upgrade
 ```
 
-## AMD ROCm GPUs
+## AMD ROCm GPU
 
 ```bash
 pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/rocm6.4 --upgrade
