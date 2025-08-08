@@ -30,12 +30,6 @@ pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/rocm6.4 --upgrade
 pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/amx --upgrade
 ```
 
-### Ascend NPU
-
-```bash
-pip3 install sglang --index-url https://docs.sglang.ai/sgl-whl/npu --upgrade
-```
-
 ### Google TPU
 
 ```bash
@@ -70,10 +64,4 @@ pip3 install sgl-kernel --index-url https://docs.sglang.ai/sgl-whl/kernel/rocm6.
 
 ```bash
 pip3 install sgl-kernel --index-url https://docs.sglang.ai/sgl-whl/kernel/amx --upgrade
-```
-
-### Ascend NPU
-
-```bash
-pip3 install sgl-kernel --index-url https://docs.sglang.ai/sgl-whl/kernel/npu --upgrade
 ```
