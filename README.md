@@ -7,7 +7,7 @@ Select your preferences and run the install command.
 ### NVIDIA GPU
 
 ```bash
-# default cu128
+# default cu128 on pypi
 pip3 install sglang --upgrade
 
 # cu126
@@ -43,7 +43,7 @@ Select your preferences and run the install command.
 ### NVIDIA GPU
 
 ```bash
-# default cu128
+# default cu128 on pypi
 pip3 install sgl-kernel --upgrade
 
 # cu126
